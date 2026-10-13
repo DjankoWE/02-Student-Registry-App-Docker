@@ -1,1 +1,1 @@
-Student Registry
+Student registry
